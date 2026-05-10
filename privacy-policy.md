@@ -33,9 +33,8 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 ### 7. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 
-**Developer Name:** [Your Name / Company Name]  
-**Email:** [Your Email Address]  
-**Website:** [Your Website URL (Optional)]
+**Developer Name:** Dil Nawaz
+**Email:** dilnawazkhanpk2003@gmail.com  
 
 ---
 *This privacy policy was generated for PLAB Question Bank Pro to comply with Google Play Store requirements.*
